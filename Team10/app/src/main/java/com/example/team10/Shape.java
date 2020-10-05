@@ -1,4 +1,4 @@
-package com.example.Team10;
+package com.example.team10;
 
 public abstract class Shape {
     private int x;
