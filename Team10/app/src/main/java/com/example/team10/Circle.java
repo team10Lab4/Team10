@@ -5,6 +5,6 @@ package com.example.team10;
  * @version 1.0
  * @since 2020-10-04
  * */
-public class Circle extends com.example.Team10.Shape {
+public class Circle extends com.example.team10.Shape {
 
 }
